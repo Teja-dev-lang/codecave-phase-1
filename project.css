@@ -247,30 +247,3 @@ input[type="radio"]{
     margin-bottom: 10px;
 
 }
-
-@media only screen and (max-width: 600px){
-    .logo{
-        width: 100px;
-
-    }
-    nav :no-button{
-        padding: 5px 10px;
-
-    }
-    nav .language-btn{
-        padding: 4px 8px;
-    }
-    .hearder-content{
-        position: unset;
-        transform: none;
-        padding-top: -550px;   
-    }
-    .hearder-content h1{
-        font-size: 20px;
-
-    }
-    .Email-signup{
-        font-size: 4px;
-    
-    }
-}
